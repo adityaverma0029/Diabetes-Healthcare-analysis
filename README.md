@@ -7,7 +7,8 @@ This project provides an end-to-end data science pipeline to analyze and predict
 -Exploratory Data Analysis (EDA): Visualizes patient demographics, admission types, and the impact of various medications on readmission.  
 -Predictive Modeling: Implements multiple machine learning algorithms including Random Forest and Logistic Regression.  
 -Business Impact Analysis: Calculates potential cost savings and identifies high-risk patients for clinical intervention.  
--Tech Stack</br> Python 3(Pandas, NumPy)  Visualization (Matplotlib, Seaborn)  Machine Learning (Scikit-Learn)  Environment Jupyter Notebook    
+</br>
+**Tech Stack**</br> Python 3(Pandas, NumPy)  Visualization (Matplotlib, Seaborn)  Machine Learning (Scikit-Learn)  Environment Jupyter Notebook    
 </br>
 **Project Workflow**  
 -Environment Setup: Loading essential libraries and configuring plotting styles.  
