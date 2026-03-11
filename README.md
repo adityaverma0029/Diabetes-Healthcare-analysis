@@ -10,15 +10,11 @@ This project provides an end-to-end data science pipeline to analyze and predict
 -Tech StackCategoryTechnologyLanguagePython 3.xData AnalysisPandas, NumPyVisualizationMatplotlib, SeabornMachine LearningScikit-LearnEnvironmentJupyter Notebook    
 </br>
 **Project Workflow**  
-Environment Setup: Loading essential libraries and configuring plotting styles.
-
-Data Acquisition: Loading the 101,766-row dataset.
-
-Data Preprocessing: Cleaning data, handling 50 different columns of patient information, and preparing features for modeling.
-
-Modeling: Training classifiers to distinguish between readmitted and non-readmitted patients.
-
-Evaluation: Using ROC-AUC, Precision, Recall, and F1-score to validate model performance.  
+-Environment Setup: Loading essential libraries and configuring plotting styles.  
+-Data Acquisition: Loading the 101,766-row dataset.  
+-Data Preprocessing: Cleaning data, handling 50 different columns of patient information, and preparing features for modeling.  
+-Modeling: Training classifiers to distinguish between readmitted and non-readmitted patients.  
+-Evaluation: Using ROC-AUC, Precision, Recall, and F1-score to validate model performance.  
 **Key Insights & Impact**  
 Risk Identification: The model successfully identifies high-risk patients who are likely to be readmitted within 30 days.
 
