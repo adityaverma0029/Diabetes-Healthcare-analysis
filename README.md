@@ -13,7 +13,8 @@ Predictive Modeling: Implements multiple machine learning algorithms including R
 Business Impact Analysis: Calculates potential cost savings and identifies high-risk patients for clinical intervention.
 
  Tech StackCategoryTechnologyLanguagePython 3.xData AnalysisPandas, NumPyVisualizationMatplotlib, SeabornMachine LearningScikit-LearnEnvironmentJupyter Notebook    
-** Project Workflow **  
+</br>
+**Project Workflow**  
 Environment Setup: Loading essential libraries and configuring plotting styles.
 
 Data Acquisition: Loading the 101,766-row dataset.
