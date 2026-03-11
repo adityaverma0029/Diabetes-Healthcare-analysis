@@ -2,11 +2,11 @@
 **Project Overview**  
 This project provides an end-to-end data science pipeline to analyze and predict hospital readmissions for patients with diabetes. Using a dataset of over 100,000 hospital admissions from 130 US hospitals (1999-2008), the project identifies key risk factors and builds predictive models to help healthcare providers reduce readmission rates and improve patient outcomes.    
 </br>   **Features**  
--Automated Data Acquisition: Integrated instructions and scripts for downloading the UCI Diabetes dataset.
--Comprehensive Preprocessing: Handles missing values (represented as '?'), cleans categorical features, and performs feature engineering.
--Exploratory Data Analysis (EDA): Visualizes patient demographics, admission types, and the impact of various medications on readmission.
--Predictive Modeling: Implements multiple machine learning algorithms including Random Forest and Logistic Regression.
--Business Impact Analysis: Calculates potential cost savings and identifies high-risk patients for clinical intervention.
+-Automated Data Acquisition: Integrated instructions and scripts for downloading the UCI Diabetes dataset.   
+-Comprehensive Preprocessing: Handles missing values (represented as '?'), cleans categorical features, and performs feature engineering.  
+-Exploratory Data Analysis (EDA): Visualizes patient demographics, admission types, and the impact of various medications on readmission.  
+-Predictive Modeling: Implements multiple machine learning algorithms including Random Forest and Logistic Regression.  
+-Business Impact Analysis: Calculates potential cost savings and identifies high-risk patients for clinical intervention.  
 -Tech StackCategoryTechnologyLanguagePython 3.xData AnalysisPandas, NumPyVisualizationMatplotlib, SeabornMachine LearningScikit-LearnEnvironmentJupyter Notebook    
 </br>
 **Project Workflow**  
