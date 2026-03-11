@@ -15,9 +15,7 @@ This project provides an end-to-end data science pipeline to analyze and predict
 -Data Preprocessing: Cleaning data, handling 50 different columns of patient information, and preparing features for modeling.  
 -Modeling: Training classifiers to distinguish between readmitted and non-readmitted patients.  
 -Evaluation: Using ROC-AUC, Precision, Recall, and F1-score to validate model performance.  
-**Key Insights & Impact**  
-Risk Identification: The model successfully identifies high-risk patients who are likely to be readmitted within 30 days.
-
-Cost Savings: Provides a framework for calculating the net benefit of preventative interventions.
-
-Clinical Recommendations: Offers actionable insights based on patient demographics and medical history.
+</br>**Key Insights & Impact**  
+-Risk Identification: The model successfully identifies high-risk patients who are likely to be readmitted within 30 days.  
+-Cost Savings: Provides a framework for calculating the net benefit of preventative interventions.
+-Clinical Recommendations: Offers actionable insights based on patient demographics and medical history.  
