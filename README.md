@@ -8,7 +8,7 @@ This project provides an end-to-end data science pipeline to analyze and predict
 -Predictive Modeling: Implements multiple machine learning algorithms including Random Forest and Logistic Regression.  
 -Business Impact Analysis: Calculates potential cost savings and identifies high-risk patients for clinical intervention.  
 </br>
-**Tech Stack**</br> Python 3(Pandas, NumPy)  Visualization (Matplotlib, Seaborn)  Machine Learning (Scikit-Learn)  Environment Jupyter Notebook    
+**Tech Stack**</br> Python 3(Pandas, NumPy) </br> Visualization-(Matplotlib, Seaborn) </br> Machine Learning-(Scikit-Learn) </br> Environment-Jupyter Notebook    
 </br>
 **Project Workflow**  
 -Environment Setup: Loading essential libraries and configuring plotting styles.  
