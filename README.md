@@ -19,4 +19,4 @@ This project provides an end-to-end data science pipeline to analyze and predict
 </br>**Key Insights & Impact**  
 -Risk Identification: The model successfully identifies high-risk patients who are likely to be readmitted within 30 days.  
 -Cost Savings: Provides a framework for calculating the net benefit of preventative interventions.
--Clinical Recommendations: Offers actionable insights based on patient demographics and medical history.  
+-Clinical Recommendations: Offers actionable insights based on patient demographics and medical history.
