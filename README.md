@@ -1,6 +1,6 @@
 # **Healthcare Readmission Analytics Project**  
 </br>
-**Project Overview**  
+**Project Overview**
 This project provides an end-to-end data science pipeline to analyze and predict hospital readmissions for patients with diabetes. Using a dataset of over 100,000 hospital admissions from 130 US hospitals (1999-2008), the project identifies key risk factors and builds predictive models to help healthcare providers reduce readmission rates and improve patient outcomes.    
 </br> </br>  **Features**  
 -Automated Data Acquisition: Integrated instructions and scripts for downloading the UCI Diabetes dataset.   
